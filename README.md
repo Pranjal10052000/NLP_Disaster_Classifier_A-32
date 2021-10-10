@@ -4,7 +4,7 @@ NLP_Disaster_Classifier_A-32
 ![image](https://user-images.githubusercontent.com/60231901/136688628-a295b68d-774c-4f65-bf69-fcf88878a3c8.png)
 
 
-**Disaster sensing and action taking model**
+# **Disaster sensing and action taking model**
 During any natural or artificial calamity, number of victims can mi un controllable. In such case Single
 human intelligence cannot handle all the situation promptly. A system requires just to analyse the
 current situation and not to forget, without panicking!! Unlike humans, machines are emotionless
@@ -13,9 +13,8 @@ one’s living over one’s is inclined towards emotional behaviour. By doing so
 chance of increasing number of servicers.
 Keeping that in mind, we are thinking of using Machine learning for the same purpose.
 
-**Natural Language Processing will help extensively with classification of the situation on the basis of**
-
-# address,
+# **Natural Language Processing will help extensively with classification of the situation on the basis of**
+  address,
  no of people,
  location,
  type of disaster,
@@ -23,7 +22,7 @@ Keeping that in mind, we are thinking of using Machine learning for the same pur
  the most importantly what is the most necessary and immediate action need to be taken!!
 By training our model with a highest possible accuracy, we can help society in the toughest,
 unfortunate and unexpected situations, and may also avoid them by taking prior precautions!
-**Features:**
+# **Features:**
 
  NLP on Text messages
  NLP on Voice infos from calls
@@ -33,7 +32,7 @@ unfortunate and unexpected situations, and may also avoid them by taking prior p
  Speed in the rescue process
  Multiple language processing using translator (most humans cannot)
  Automation in the Process
-**Scope:**
+# **Scope:**
 
  Increasing flood situations now a days automated rescue system is the most requested
 project.
