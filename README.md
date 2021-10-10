@@ -14,29 +14,29 @@ chance of increasing number of servicers.
 Keeping that in mind, we are thinking of using Machine learning for the same purpose.
 
 # **Natural Language Processing will help extensively with classification of the situation on the basis of**
-  address,
- no of people,
- location,
- type of disaster,
- no of victims and
- the most importantly what is the most necessary and immediate action need to be taken!!
+* address,
+* no of people,
+* location,
+* type of disaster,
+* no of victims and
+* the most importantly what is the most necessary and immediate action need to be taken!!
 By training our model with a highest possible accuracy, we can help society in the toughest,
 unfortunate and unexpected situations, and may also avoid them by taking prior precautions!
 # **Features:**
 
- NLP on Text messages
- NLP on Voice infos from calls
- Detecting fake information
- No emotional inclination
- Most needy get served immediately
- Speed in the rescue process
- Multiple language processing using translator (most humans cannot)
- Automation in the Process
+* NLP on Text messages
+* NLP on Voice infos from calls
+* Detecting fake information
+* No emotional inclination
+* Most needy get served immediately
+* Speed in the rescue process
+* Multiple language processing using translator (most humans cannot)
+* Automation in the Process
 # **Scope:**
 
- Increasing flood situations now a days automated rescue system is the most requested
+* Increasing flood situations now a days automated rescue system is the most requested
 project.
- Sudden earthquakes and mountainside fall requires immediate and faster response. ML is
+* Sudden earthquakes and mountainside fall requires immediate and faster response. ML is
 all about the speed
- Road accident victims can benefit a lot, one voice message to our model can do better
+* Road accident victims can benefit a lot, one voice message to our model can do better
 instead of multiple unanswered calls and texts.
