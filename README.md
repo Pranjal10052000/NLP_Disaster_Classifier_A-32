@@ -1,5 +1,5 @@
 NLP_Disaster_Classifier_A-32
-![image](https://user-images.githubusercontent.com/60231901/136688558-249fda9f-6f3b-4c63-bf23-922a37043ba3.png)
+![image](https://user-images.githubusercontent.com/60231901/136688692-351791e8-8edc-48a5-a6d3-d143ed7d2cbc.png)
 ![image](https://user-images.githubusercontent.com/60231901/136688615-7dc8f777-f4aa-452c-b27f-4d3bb1ef4b51.png)
 ![image](https://user-images.githubusercontent.com/60231901/136688628-a295b68d-774c-4f65-bf69-fcf88878a3c8.png)
 
@@ -15,7 +15,7 @@ Keeping that in mind, we are thinking of using Machine learning for the same pur
 
 **Natural Language Processing will help extensively with classification of the situation on the basis of**
 
- address,
+# address,
  no of people,
  location,
  type of disaster,
