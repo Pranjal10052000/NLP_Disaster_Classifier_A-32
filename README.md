@@ -1,0 +1,2 @@
+# NLP_Disaster_Classifier_A-32
+During any natural or artificial calamity, number of victims can mi un controllable. In such case Single human intelligence cannot handle all the situation promptly. A system requires just to analyse the current situation and not to forget, without panicking!! Unlike humans, machines are emotionless (till now!!). So in such conditions they can be a greater help than emotional beings. To Prioritize one’s living over one’s is inclined towards emotional behaviour. By doing so, there will be more chance of increasing number of servicers.
